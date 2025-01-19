@@ -1,6 +1,6 @@
 # RayMarchLab
 
-RayMarch 相关的研究，Voxels,Fractal...
+RayMarch 相关的研究,Voxels,Fractal...
 
 
 ### Additional Readings
