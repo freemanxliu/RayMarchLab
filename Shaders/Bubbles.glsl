@@ -14,5 +14,4 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     
     // Output to screen
     fragColor = vec4(color, 1.0);
-
 }
