@@ -9,7 +9,6 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     // Output to screen
     fragColor = vec4(col,1.0);
 
-    
     // Output to screen
     vec3 color = mix(BACKGROUND_COLOR, BUBBLE_COLOR, shapeFactor);
     
